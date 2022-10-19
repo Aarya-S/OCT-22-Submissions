@@ -1,0 +1,4 @@
+ROSPL - 2 assignment
+SAD - 10exp + 2 assignment (lms)
+AIDS - 10exp + 2 assignment
+IoE - 2 assignment
